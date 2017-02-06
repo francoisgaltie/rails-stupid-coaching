@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+
+
+ .container {
+  margin-top: 30px;
+ }
+
+ #ask {
+  font-weight: bold;
+  font-size: larger;
+ }
+
+ #ask-container {
+  width: 300px;
+ }
+
+ .question-form {
+  height: 34px;
+ }
